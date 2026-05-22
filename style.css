@@ -24,6 +24,12 @@ body {
     align-items: center;
 }
 
+.topheader {
+   text-align: center;
+   margin-top: 8px;
+   color: var(--font-Color);
+}
+
 .container {
    width: 100%;
    max-width: 550px;

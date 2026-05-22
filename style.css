@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     outline: none;
+<<<<<<< HEAD
     border: none;
     font-family: 'Lato', sans-serif;
 }
@@ -73,4 +74,15 @@ footer.baseboard {
     position: fixed;
     bottom: 4%;
     color: var(--font-Color);
+=======
+}
+
+:root {
+    --bgGround: #dba149;
+}
+
+body {
+    background: var(--bgGround);
+    
+>>>>>>> 8ad0a2338c0287aebc871619556a85a470ebb801
 }
